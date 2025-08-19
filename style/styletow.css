@@ -3,8 +3,7 @@
     display: flex;
   justify-content: start;
   align-items: start;
-  height: 100vh;   
-   
+  height: 100vh;      
 }
 .imgone{    
 clip-path: circle(40%);
@@ -20,18 +19,15 @@ width: 20%;
   align-items:start;
   height: 100vh;     
 }
-
 .img2{
     clip-path: ellipse(50% 35% at right);
     width: 20%;
   height: 50%;
    padding: 10px;
   border-radius: 50px;
-  border: solid brown;
+  border: solid rgb(61, 79, 214);
   margin: 10px;
 }
-
-
 .div3{
     display: flex;
   justify-content: start;
@@ -44,8 +40,22 @@ width: 20%;
   height: 50%;
    padding: 10px;
   border-radius: 50px;
-  border: solid brown;
+  border: solid rgb(218, 215, 35);
   margin: 10px;
 }
-
+.div4{
+    display: flex;
+  justify-content: start;
+  align-items:start;
+  height: 100vh;     
+}
+.img4{
+    clip-path: ellipse(50% 35% at right);
+    width: 20%;
+  height: 50%;
+   padding: 10px;
+  border-radius: 50px;
+  border: solid rgb(91, 21, 221);
+  margin: 10px;
+}
 
