@@ -1,0 +1,51 @@
+
+.divone{
+    display: flex;
+  justify-content: start;
+  align-items: start;
+  height: 100vh;   
+   
+}
+.imgone{    
+clip-path: circle(40%);
+width: 20%;
+  height: 50%;  
+  padding: 10px;
+  border: solid brown ;
+  margin: 10px;
+}
+.div2{
+    display: flex;
+  justify-content: start;
+  align-items:start;
+  height: 100vh;     
+}
+
+.img2{
+    clip-path: ellipse(50% 35% at right);
+    width: 20%;
+  height: 50%;
+   padding: 10px;
+  border-radius: 50px;
+  border: solid brown;
+  margin: 10px;
+}
+
+
+.div3{
+    display: flex;
+  justify-content: start;
+  align-items:start;
+  height: 100vh;     
+}
+.img3{
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    width: 20%;
+  height: 50%;
+   padding: 10px;
+  border-radius: 50px;
+  border: solid brown;
+  margin: 10px;
+}
+
+
